@@ -8,7 +8,9 @@ Paper submitted to AIME 2026 - Ottawa
 We compare classical ML models (Logistic regression and Random Forest) and pre-trained Foundation Models for tabular data on publicly available medical datasets
 
 
-Copyright (c) 2026 BMI lab
+
+
+**Copyright (c) 2026 BMI lab**
 
 All rights reserved.
 
