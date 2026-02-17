@@ -1,0 +1,54 @@
+datasets:
+  - name: "myocardial_infarction"
+    path: '/Users/utente/Desktop/Tabular_Model/datasets/myocardial_infarction_complications.csv'
+    target: 'class'
+    group_class: 1,2,3,4,5,6,7 # "death" class to be set as 1
+    notes: "UCI Machine Learning repo dataset"
+  - name: "cdc_diabetes"
+    path: '/Users/utente/Desktop/Tabular_Model/datasets/CDC_diabetes.csv'
+    target: 'class'
+    notes: "UCI Machine Learning repo dataset"
+  - name: "cyrrosis"
+    path: '/Users/utente/Desktop/Tabular_Model/datasets/cyrrosis.csv'
+    target: 'class'
+    notes: "UCI Machine Learning repo dataset"
+  - name: "Thyroid_Diff"
+    path: '/Users/utente/Desktop/Tabular_Model/datasets/Thyroid_Diff.csv'
+    target: 'Recurred'
+    notes: "UCI Machine Learning repo dataset"
+  - name: "glioma"
+    path: '/Users/utente/Desktop/Tabular_Model/datasets/glioma.csv'
+    target: 'class'
+    notes: "UCI Machine Learning repo dataset"
+  - name: "hepatitis"
+    path: '/Users/utente/Desktop/Tabular_Model/datasets/hepatitis.csv'
+    target: 'class'
+    notes: "UCI Machine Learning repo dataset"
+  - name: "myocardial_infarction"
+    path: '/Users/utente/Desktop/Tabular_Model/datasets/myocardial_infarction_complications.csv'
+    target: 'class'
+    notes: "UCI Machine Learning repo dataset"
+  - name: "parkinson"
+    path: '/Users/utente/Desktop/Tabular_Model/datasets/parkinson.csv'
+    target: 'class'
+    notes: "UCI Machine Learning repo dataset"
+  - name: "Gh_TO"
+    path: '/Users/utente/Desktop/Tabular_Model/datasets/SGA-ISA/data_t0.csv'
+    target: 'RESPONDER(=0: poor 1:mild 2: good)'
+    notes: "UCI Machine Learning repo dataset"
+  - name: "Gh_T1"
+    path: '/Users/utente/Desktop/Tabular_Model/datasets/SGA-ISA/data_t1.csv'
+    target: 'RESPONDER(=0: poor 1:mild 2: good)'
+    notes: "UCI Machine Learning repo dataset"
+  - name: "Gh_T2"
+    path: '/Users/utente/Desktop/Tabular_Model/datasets/SGA-ISA/data_t2.csv'
+    target: 'RESPONDER(=0: poor 1:mild 2: good)'
+    notes: "UCI Machine Learning repo dataset"
+  - name: "student_depression"
+    path: '/Users/utente/Desktop/Tabular_Model/datasets/student_depression_dataset.csv'
+    target: 'Depression'
+    notes: "UCI Machine Learning repo dataset"
+  - name: "Thyroid_cancer"
+    path: '/Users/utente/Desktop/Tabular_Model/datasets/thyroid_cancer.csv'
+    target: 'class'
+    notes: "UCI Machine Learning repo dataset"
